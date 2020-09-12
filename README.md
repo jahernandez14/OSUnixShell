@@ -1,4 +1,4 @@
-# Unix Shell OS Lab #2
+# Unix Shell
 By: Jonathan Argumedo & Julio Hernandez
 
 ## Objective
